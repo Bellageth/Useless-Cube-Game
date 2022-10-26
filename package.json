@@ -1,0 +1,12 @@
+{
+  "name": "UselessCubeGame",
+  "author": {
+    "name": "papabell",
+    "email": "brettdklima1918@gmail.com",
+    "url": "To Be Determined"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "standard": "^17.0.0"
+  }
+}
