@@ -42,6 +42,11 @@ controller = {
   },
 }; //end controller object
 
+/**
+ * backgroundMusic requires one parameter. This function is to play game music in the background.
+ *
+ * src - source path or url for a audio file
+ * */
 function backgroundMusic(src) {
   this.backgroundMusic = document.createElement("audio");
   this.backgroundMusic.src = src;
